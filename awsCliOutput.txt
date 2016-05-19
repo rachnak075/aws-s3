@@ -1,1 +1,0 @@
-download: s3://trainingonaws/Hello World.txt to ../../../Desktop/aws/git_uploads/Hello World.txt
